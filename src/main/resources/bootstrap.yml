@@ -1,0 +1,9 @@
+spring:
+  application:
+      name: nexclipper
+  profiles:
+    active: "local"
+
+---
+spring:
+  profiles: local
