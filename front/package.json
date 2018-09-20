@@ -25,6 +25,7 @@
     "vue": "^2.5.2",
     "vue-async-computed": "^3.4.1",
     "vue-codemirror-lite": "^1.0.4",
+    "vue-d3": "^0.1.0",
     "vue-highlight.js": "^2.2.0",
     "vue-property-decorator": "^7.0.0",
     "vue-router": "^3.0.1",

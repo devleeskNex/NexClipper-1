@@ -36,6 +36,11 @@ import 'highlight.js/styles/vs2015.css';
 Vue.use(VueHighlightJS);
 window.busVue = new Vue();
 
+
+var VueD3 = require('vue-d3');
+Vue.use(VueD3);
+
+
 import App from './App'
 import router from './router'
 
